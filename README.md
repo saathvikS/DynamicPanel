@@ -17,8 +17,11 @@
 ## Description
 
 
-### Technologies
-
+#### Materials Used
+   - Arduino Uno
+   - Two Servo Motors
+   - Breadboard
+   - Jumper Wires
 
 ---
 
@@ -33,6 +36,6 @@
 
 ## Authors
 
-### Saathvik Somujayabalan
+#### Saathvik Somujayabalan
 
-### Rithvik Koppolu
+#### Rithvik Koppolu
