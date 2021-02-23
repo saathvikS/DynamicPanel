@@ -6,12 +6,13 @@
 
 ### Table of Contents
 
-- [Description] (#Description)
-- [Project Demo] (#Project-Demo)
-- [How to use] (#How-To-Use)
-- [Authors] (#Authors)
+- [Description](#Description)
+- [Project Demo](#Project-Demo)
+- [How to use](#How-To-Use)
+- [Authors](#Authors)
 
 ---
+
 
 ## Description
 
