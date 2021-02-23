@@ -27,6 +27,8 @@
 
 ## Project Demo
 
+[Video Demonstration](https://youtu.be/U329uoS81VI)
+
 ---
 
 ## How to use
