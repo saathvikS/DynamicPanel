@@ -31,7 +31,7 @@
 
 ---
 
-## How to use
+## Instructions
 
 
 ---
