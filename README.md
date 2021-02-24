@@ -33,17 +33,43 @@ of energy.
 
 ---
 
-## Instructions
-
 
 #### Materials Used
    - Arduino Uno
    - Two Servo Motors
+   - One Photoresistor
+   - 10 kΩ resistor
    - Breadboard
    - Jumper Wires
+   - Cardboard & Glue
+---
+## Instructions
+
+First set up the Breadboard and Arduino Uno like this:
+Then build a cardboard tower which is where the motors will rest on top
+Add a base on the tower and then glue a servo motor - we will call this the horizontal motor - on the base, with the propellors facing upwards
+Glue cardboard on the propellors of the horizontal motor - this will be the base for the second motor
+Add a small secondary tower slightly to the left of the center of the base for the second motor 
+We did this with coins, but cardboards works fine as well
+We make it to the left is so when we glue the motor on the secondary tower, its axis of rotation is directly in line with the horizontal motor, which will make it more accurate
+Glue the other motor - we will call this the vertical motor - on the secondary tower, with its propeller facing toward the center of the first tower
+Glue cardboard on the propellors of the vertical motor
+If you want to make it more realistic, then glue a picture of a solar panel on the cardboard of the vertical motor
+Then download the code (pick on of the first three files)
+Turn on a light source, as see how it accurately tracks the source of light!
 
 ---
 
+## Extra Add-ons
+
+Instead of adding only one resistor, you can add four, as seen in this picture!
+This will make the tracking ability much more accurate and smooth
+If you decide to make one with four resistors, then you can download the code of the last file, which is able compatable with four resistors
+If you like coding, we highly reccomend you to try to code the software for yourself and use ours as a guide - and maybe you can even improve our code and add on features!
+Some features you could add are if the tracker can see if it is already in the best position, and then stop moving
+Or you could make the motors movements finer and finer as it approaches the maximal angle
+
+---
 ## Authors
 
 #### Saathvik Somujayabalan
