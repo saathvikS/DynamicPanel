@@ -1,4 +1,4 @@
-# Dual-Axis Solar Panel Tracker
+# DynamicPanel
 
 > A prototype device engineered to increase solar panel efficieny and harvest more energy
 
