@@ -46,7 +46,4 @@ of energy.
 ## Authors
 
 #### Saathvik Somujayabalan
-
-   
-
 #### Rithvik Koppolu
