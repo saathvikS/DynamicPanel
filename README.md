@@ -9,7 +9,8 @@
 
 - [Description](#Description)
 - [Project Demo](#Project-Demo)
-- [How to use](#How-To-Use)
+- [How to build](#How-to-Build)
+- [Extra Add-ons](#Extra-Add-ons)
 - [Authors](#Authors)
 
 ---
@@ -43,7 +44,7 @@ of energy.
    - Jumper Wires
    - Cardboard & Glue
 ---
-## Instructions
+## How to Build
 
 First set up the Breadboard and Arduino Uno like this:
 Then build a cardboard tower which is where the motors will rest on top
