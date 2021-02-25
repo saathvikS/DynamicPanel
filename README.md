@@ -46,22 +46,22 @@ of energy.
 ---
 ## How to Build
 0. Build with steps:
-<img src="https://github.com/saathvikS/DynamicPanel/blob/main/Annotated%20Step%200.JPG" width = "400">
+<img src="https://github.com/saathvikS/DynamicPanel/blob/main/Instruction%20Pictures/Annotated%20Step%200.JPG" width = "400">
 1. Set up the Breadboard and Arduino Uno like this:
 <img src="https://github.com/saathvikS/DynamicPanel/blob/main/Pictures/Schematic.png" width="200">
 2. Then build a cardboard tower which is where the motors will rest on top
-<img src="https://github.com/saathvikS/DynamicPanel/blob/main/Step1.jfif" width="200" height="200">
+<img src="https://github.com/saathvikS/DynamicPanel/blob/main/Instruction%20Pictures/Step1.jfif" width="200" height="200">
 3. Add a base on the tower and then glue a servo motor- we will call this the horizontal motor - on the base, with the propellors facing upwards
-<img src="https://github.com/saathvikS/DynamicPanel/blob/main/Step2.jfif" width="200" height="200">
+<img src="https://github.com/saathvikS/DynamicPanel/blob/main/Instruction%20Pictures/Step2.jfif" width="200" height="200">
 4. Glue cardboard on the propellors of the horizontal motor - this will be the base for the second motor
-<img src="https://github.com/saathvikS/DynamicPanel/blob/main/Step3.jfif" width="200" height="200">
+<img src="https://github.com/saathvikS/DynamicPanel/blob/main/Instruction%20Pictures/Step3.jfif" width="200" height="200">
 5. Add a small secondary tower (we made it out of coins) slightly to the right of the center of the base for the second motor 
 6. Glue the other motor - we will call this the vertical motor - on the secondary tower, with its propeller facing toward the center of the first tower
-<img src="https://github.com/saathvikS/DynamicPanel/blob/main/Step4.jfif" width="200" height="200">
+<img src="https://github.com/saathvikS/DynamicPanel/blob/main/Instruction%20Pictures/Step4.jfif" width="200" height="200">
 7. Glue cardboard on the propellors of the vertical motor
-<img src="https://github.com/saathvikS/DynamicPanel/blob/main/Step6.jfif" width="200" height="200">
+<img src="https://github.com/saathvikS/DynamicPanel/blob/main/Instruction%20Pictures/Step6.jfif" width="200" height="200">
 8. If you want to make it more realistic, then glue a picture of a solar panel on the cardboard of the vertical motor
-<img src="https://github.com/saathvikS/DynamicPanel/blob/main/Step7.jfif" width="200" height="200">
+<img src="https://github.com/saathvikS/DynamicPanel/blob/main/Instruction%20Pictures/Step7.jfif" width="200" height="200">
 9. Then download the code (pick one of the three files)
 https://github.com/saathvikS/DynamicPanel/blob/main/Code/Base%20Version%20Code/Base_Version_1.ino
 https://github.com/saathvikS/DynamicPanel/blob/main/Code/Base%20Version%20Code/Base_Version_2.ino
