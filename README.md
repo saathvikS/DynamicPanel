@@ -48,7 +48,7 @@ of energy.
 
 First set up the Breadboard and Arduino Uno like this:
 Then build a cardboard tower which is where the motors will rest on top
-![alt text](https://github.com/saathvikS/DynamicPanel/blob/main/Step1.jfif)
+![alt text](https://github.com/saathvikS/DynamicPanel/blob/main/Step1.jfif =100x20)
 Add a base on the tower and then glue a servo motor- we will call this the horizontal motor - on the base, with the propellors facing upwards
 ![](filename spaced.ping)
 Glue cardboard on the propellors of the horizontal motor - this will be the base for the second motor
