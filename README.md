@@ -45,27 +45,25 @@ of energy.
    - Cardboard & Glue
 ---
 ## How to Build
-
-First set up the Breadboard and Arduino Uno like this:
-Then build a cardboard tower which is where the motors will rest on top
-<img src="https://github.com/saathvikS/DynamicPanel/blob/main/Step1.jfif" width="200" height="200" align="right"/>
-Add a base on the tower and then glue a servo motor- we will call this the horizontal motor - on the base, with the propellors facing upwards
-![](filename spaced.ping)
-Glue cardboard on the propellors of the horizontal motor - this will be the base for the second motor
-![](filename spaced.ping)
-Add a small secondary tower slightly to the left of the center of the base for the second motor 
-![](filename spaced.ping)
-We did this with coins, but cardboards works fine as well
-We make it to the left is so when we glue the motor on the secondary tower, its axis of rotation is directly in line with the horizontal motor, which will make it more accurate
-![](filename spaced.ping)
-Glue the other motor - we will call this the vertical motor - on the secondary tower, with its propeller facing toward the center of the first tower
-![](filename spaced.ping)
-Glue cardboard on the propellors of the vertical motor
-![](filename spaced.ping)
-If you want to make it more realistic, then glue a picture of a solar panel on the cardboard of the vertical motor
-![](filename spaced.ping)
-Then download the code (pick on of the first three files)
-Turn on a light source, as see how it accurately tracks the source of light!
+1. Set up the Breadboard and Arduino Uno like this:
+2. Then build a cardboard tower which is where the motors will rest on top
+<img src="https://github.com/saathvikS/DynamicPanel/blob/main/Step1.jfif" width="200" height="200">
+3. Add a base on the tower and then glue a servo motor- we will call this the horizontal motor - on the base, with the propellors facing upwards
+<img src="https://github.com/saathvikS/DynamicPanel/blob/main/Step2.jfif" width="200" height="200">
+5. Glue cardboard on the propellors of the horizontal motor - this will be the base for the second motor/
+<img src="https://github.com/saathvikS/DynamicPanel/blob/main/Step3.jfif" width="200" height="200">
+7. Add a small secondary tower slightly to the left of the center of the base for the second motor. We did this with coins, but cardboards works fine as well 
+<img src="https://github.com/saathvikS/DynamicPanel/blob/main/Step4.jfif" width="200" height="200">
+9. We make it to the left is so when we glue the motor on the secondary tower, its axis of rotation is directly in line with the horizontal motor
+1<img src="https://github.com/saathvikS/DynamicPanel/blob/main/Step5.jfif" width="200" height="200">
+11. Glue the other motor - we will call this the vertical motor - on the secondary tower, with its propeller facing toward the center of the first tower
+<img src="https://github.com/saathvikS/DynamicPanel/blob/main/Step6.jfif" width="200" height="200">
+13. Glue cardboard on the propellors of the vertical motor
+<img src="https://github.com/saathvikS/DynamicPanel/blob/main/Step7.jfif" width="200" height="200">
+15. If you want to make it more realistic, then glue a picture of a solar panel on the cardboard of the vertical motor
+<img src="https://github.com/saathvikS/DynamicPanel/blob/main/Step8.jfif" width="200" height="200">
+17. Then download the code (pick on of the first three files)
+19. Turn on a light source, as see how it accurately tracks the source of light!
 
 ---
 
