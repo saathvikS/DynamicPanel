@@ -45,6 +45,8 @@ of energy.
    - Cardboard & Glue
 ---
 ## How to Build
+0. Build with steps:
+<img src="https://github.com/saathvikS/DynamicPanel/blob/main/Annotated%20Step%200.JPG" width = "400">
 1. Set up the Breadboard and Arduino Uno like this:
 <img src="https://github.com/saathvikS/DynamicPanel/blob/main/Pictures/Schematic.png" width="200">
 2. Then build a cardboard tower which is where the motors will rest on top
@@ -85,8 +87,14 @@ Tracking system that automatically stops when it detects that it is at the best 
 
 System that makes motor movements finer and finer as it approaches the maximial angle.
 
+Storing system that memorizes where the sun is, and then for the next day automatically goes to the corresponding positions for the time of the day.
+
 ---
 ## Authors
 
 #### Saathvik Somujayabalan
 #### Rithvik Koppolu
+
+We are highschoolers at STEM and love to build cool projects.
+
+If you have any cool project ideas, please let us know in the comments!
