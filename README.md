@@ -10,7 +10,7 @@
 - [Description](#Description)
 - [Project Demo](#Project-Demo)
 - [How to build](#How-to-Build)
-- [Extra Add-ons](#Extra-Add-ons)
+- [Extra Add-ons](#Extra-Features)
 - [Authors](#Authors)
 
 ---
@@ -70,7 +70,7 @@ https://github.com/saathvikS/DynamicPanel/blob/main/Code/Base%20Version%20Code/B
 
 ---
 
-## Extra
+## Extra Features
 
 Instead of adding only one resistor, you can add four, as seen in this picture!
 
