@@ -55,10 +55,12 @@ of energy.
 <img src="https://github.com/saathvikS/DynamicPanel/blob/main/Instruction%20Pictures/Step2.jfif" width="200" height="200">
 4. Glue cardboard on the propellors of the horizontal motor - this will be the base for the second motor
 <img src="https://github.com/saathvikS/DynamicPanel/blob/main/Instruction%20Pictures/Step3.jfif" width="200" height="200">
-5. Add a secondary tower (we made it out of coins) slightly to the right of the center of the base for the second motor 
+5. Add a secondary tower (we made it out of coins) slightly to the right of the center of the base for the second motor
+
+
 6. Glue the other motor (vertical motor) on the secondary tower, with its propeller facing toward the center of the first tower
 <img src="https://github.com/saathvikS/DynamicPanel/blob/main/Instruction%20Pictures/Step4.jfif" width="200" height="200">
-7. Glue cardboard on the propellors of the vertical motor and then glue again another cardboard perpendicular to the first cardboard glued (this will be the solar panel)
+7. Glue cardboard on the propellors of the vertical motor and then glue again another cardboard perpendicular to the first cardboard glued (this will be the solar panel), and put the photoresistor in the center of the solar panel, facing up
 <img src="https://github.com/saathvikS/DynamicPanel/blob/main/Instruction%20Pictures/Step6.jfif" width="200" height="200">
 8. Optional: glue a picture of a solar panel on the cardboard attatched to the vertical motor
 <img src="https://github.com/saathvikS/DynamicPanel/blob/main/Instruction%20Pictures/Step7.jfif" width="200" height="200">
