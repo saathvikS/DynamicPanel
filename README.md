@@ -48,14 +48,22 @@ of energy.
 
 First set up the Breadboard and Arduino Uno like this:
 Then build a cardboard tower which is where the motors will rest on top
-Add a base on the tower and then glue a servo motor - we will call this the horizontal motor - on the base, with the propellors facing upwards
+![](C:\Users\rikki\OneDrive\Pictures\Build\Step1.jfif)
+Add a base on the tower and then glue a servo motor- we will call this the horizontal motor - on the base, with the propellors facing upwards
+![](filename spaced.ping)
 Glue cardboard on the propellors of the horizontal motor - this will be the base for the second motor
+![](filename spaced.ping)
 Add a small secondary tower slightly to the left of the center of the base for the second motor 
+![](filename spaced.ping)
 We did this with coins, but cardboards works fine as well
 We make it to the left is so when we glue the motor on the secondary tower, its axis of rotation is directly in line with the horizontal motor, which will make it more accurate
+![](filename spaced.ping)
 Glue the other motor - we will call this the vertical motor - on the secondary tower, with its propeller facing toward the center of the first tower
+![](filename spaced.ping)
 Glue cardboard on the propellors of the vertical motor
+![](filename spaced.ping)
 If you want to make it more realistic, then glue a picture of a solar panel on the cardboard of the vertical motor
+![](filename spaced.ping)
 Then download the code (pick on of the first three files)
 Turn on a light source, as see how it accurately tracks the source of light!
 
