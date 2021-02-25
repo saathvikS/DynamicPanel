@@ -34,6 +34,7 @@ of energy.
 
 ---
 
+## How to Build
 
 #### Materials Used
    - Arduino Uno
@@ -43,8 +44,8 @@ of energy.
    - Breadboard
    - Jumper Wires
    - Cardboard & Glue
----
-## How to Build
+
+
 0. Build with steps:
 <img src="https://github.com/saathvikS/DynamicPanel/blob/main/Instruction%20Pictures/Annotated%20Step%200.JPG" width = "400">
 1. Set up the Breadboard and Arduino Uno like this:
