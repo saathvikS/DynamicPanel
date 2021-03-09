@@ -23,8 +23,7 @@ stationary solar panels. Although there are many working dual-axis solar panels,
 there is a need to make a small, feasible solution to take to potential future colonies on Mars and the Moon. Introducing, DynamicPanel, equipped with one photoresistor, that is 
 compact, feasible, and even has the option to upgrade to up to four photoresistors for maximum efficiency. DynamicPanel is prototyped with an Arduino UNO microcontroller and all 
 wiring is through a breadboard but if a custom circuit board was made with just the necessary components along with soldering, our device can be made _even_ smaller and lighter.
-The servo motors in this device are connected directly to each other, reducing the weight which is crucial to transport this to future colonies. DynamicPanel, paving the future 
-of energy.
+The servo motors in this device are connected directly to each other, reducing the weight which is crucial to transport this to future colonies.
 
 ---
 
@@ -98,6 +97,8 @@ Storing system that memorizes where the sun is, and then for the next day automa
 #### Saathvik Somujayabalan
 #### Rithvik Koppolu
 
-We are highschoolers at STEM and love to build cool projects.
+We are into STEM and love to build cool projects.
 
 If you have any cool project ideas, please let us know in the comments!
+
+And if you liked the project, it would mean a lot to us if you could star it. Thanks!
