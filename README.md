@@ -1,5 +1,5 @@
 # DynamicPanel
-<img src=https://github.com/saathvikS/DynamicPanel/blob/main/Pictures/DynamicPanel-Logo.jpg>
+<img src=https://github.com/saathvikS/DynamicPanel/blob/main/Combined.JPG>
 
 > A prototype device engineered to increase solar panel efficiency and harvest more energy
 
